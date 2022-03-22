@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+.day {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+.sep {
+    background: rgb(0, 176, 80);
+    height: 10px;
+}
